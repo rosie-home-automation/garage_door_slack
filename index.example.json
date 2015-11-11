@@ -1,0 +1,16 @@
+{
+  "connections": [
+    {
+      "port": 4020
+    }
+  ],
+  "plugins": {
+    "garage_door_slack": {
+      "url": "https://hooks.slack.com/services/XXXXXX/YYYYYY/ZZZZZZ",
+      "options": {
+        "channel": "#general"
+      },
+      "username": "GarageBot"
+    }
+  }
+}
