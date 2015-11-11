@@ -1,0 +1,12 @@
+{
+  "name": "garage_door_slack",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "good": "^6.3.0",
+    "good-console": "^5.0.3",
+    "hapi": "^10.1.0",
+    "node-slackr": "^0.1.2",
+    "rejoice": "^2.2.0"
+  }
+}
